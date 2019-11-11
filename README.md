@@ -11,8 +11,6 @@ r
 3. Open Android Studio and click **Import Project (Gradle, Eclipse ADT, etc)**
 4. Select the **SKYSTONE** folder and click **Import**
 
-## Pull other changes and new files from the repository.
-Update the files on your computer to match the most recent files on GitHub, click the **VCS** menu and click **Update Project...** (or press **command-T**).
 
 ## Adding a new file
 When you create a new file in the teamcode folder, Android Studio will ask you if you want to add the new file to the repository.  This will set the file to be uploaded to GitHub, so you should do this.  If you click "no" you can always go to the **VCS** menu and add the file to the repository later.  
@@ -24,3 +22,6 @@ When you reach a stable bit of code, or you want to test out something new, you 
 
 ## Push your changes to GitHub
 You can edit code on your computer all you want.  When you have some working code or are ready to share your code with the team, click on the **VCS** menu then **Git...** then **Push...** (or press **command-shift-K**).  This will save any changes on your computer to the GitHib repository
+
+## Pull other changes and new files from the repository.
+Update the files on your computer to match the most recent files on GitHub, click the **VCS** menu and click **Update Project...** (or press **command-T**).
