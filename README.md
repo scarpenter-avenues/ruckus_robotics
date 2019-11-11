@@ -17,4 +17,7 @@ When you create a new file in the teamcode folder, Android Studio will ask you i
 Notice that the new file will be highlighted green in the sidebar.  This shows you that the file only exists on your computer and is not yet in the repository on GitHub.
 
 ## Commit your changes to the repository
-You can edit code on your computer all you want.  When you have some working code or are ready to share your code with the team.  Click on the **VCS** menu and click **Commit**.  Write a little message to the team to let everyone know what your new file does or what your changes to existing files were.  Then click **Commit** and your work will be uploaded to GitHub.
+You can edit code on your computer all you want.  When you have some working code or are ready to share your code with the team.  Click on the **VCS** menu and click **Commit** (or press **command-K**).  Write a little message to the team to let everyone know what your new file does or what your changes to existing files were.  Then click **Commit** and your work will be uploaded to GitHub.
+
+## Pull other changes and new files from the repository.
+Update the files on your computer to match the most recent files on GitHub, click the **VCS** menu and click **Update Project...** (or press **command-T**).
