@@ -5,7 +5,7 @@ Team 14712 Robot Code
 [Clone of Original FTC SKYSTONE Repository](https://github.com/FIRST-Tech-Challenge/SKYSTONE)
 
 
-## Set-up Requirements:
+## Set-up Requirements
 1. Install Git from Self-Service.
 2. Create an account at [GitHub](http://github.com).
 
