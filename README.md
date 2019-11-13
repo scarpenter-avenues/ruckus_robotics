@@ -3,14 +3,17 @@
 Team 14712 Robot Code
 
 [Clone of Original FTC SKYSTONE Repository](https://github.com/FIRST-Tech-Challenge/SKYSTONE)
-r
-## Download to your computer
 
+
+## Set-up Requirements:
+1. Install Git from Self-Service.
+2. Create an account at [GitHub](http://github.com).
+
+## Download the project to your computer
 1. Click the **Clone or Download** button and download the ZIP file.
 2. Open the zip file in a new folder on your computer.
 3. Open Android Studio and click **Import Project (Gradle, Eclipse ADT, etc)**
 4. Select the **SKYSTONE** folder and click **Import**
-
 
 ## Adding a new file
 When you create a new file in the teamcode folder, Android Studio will ask you if you want to add the new file to the repository.  This will set the file to be uploaded to GitHub, so you should do this.  If you click "no" you can always go to the **VCS** menu and add the file to the repository later.  
